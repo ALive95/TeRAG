@@ -141,7 +141,3 @@ pip install faiss-cpu openai numpy python-docx PyPDF2
 ```
 
 Add your OpenAI API key to `query_system.py` before running.
-
----
-
-**Perfect for**: Medical students who want to study more efficiently using their actual course materials rather than generic resources. Especially useful when professors emphasize specific interpretations or details that differ from standard textbooks.
