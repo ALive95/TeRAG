@@ -1,3 +1,10 @@
+# Environment variables
+.env
+
+# API keys and secrets
+*.key
+config.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
